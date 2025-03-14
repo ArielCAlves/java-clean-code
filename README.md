@@ -23,4 +23,15 @@
 ## # TP2
 | Descrição                               | Link |
 |:------------------------------------:|:------:|
-| Em andamento. | Em andamento. |
+| Nomeação de Variáveis e Funções | [Exercício 01](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc01) |
+| Código Autoexplicativo e Evitando Valores Mágicos | [Exercício 02](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc02) |
+| Evitando NullPointerException – O Cliente Inexistente | [Exercício 03](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc03) |
+| Evitando Mutação de Parâmetros | [Exercício 04](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc04) |
+| Código com Muitos Ifs Aninhados | [Exercício 05](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc05) |
+| Personalização da Interface do Cliente | [Exercício 06](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc06) |
+| Utilizar a diretiva switch em conjunção ao padrão Abstract Factory | [Exercício 07](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc07) |
+| Método que mistura comando e consulta | [Exercício 08](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc08) |
+| Método que retorna dados e altera estado | [Exercício 09](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc09) |
+| Método que consulta e atualiza estatísticas | [Exercício 10](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc10) |
+| Enumeração de Status de Pedidos | [Exercício 11](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc11) |
+| Tipos de Notificações no Sistema | [Exercício 12](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc12) |
