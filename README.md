@@ -35,3 +35,9 @@
 | Método que consulta e atualiza estatísticas | [Exercício 10](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc10) |
 | Enumeração de Status de Pedidos | [Exercício 11](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc11) |
 | Tipos de Notificações no Sistema | [Exercício 12](https://github.com/ArielCAlves/java-clean-code/tree/main/TP2/TP2_exerc12) |
+
+
+## # TP3
+| Descrição                               | Link |
+|:------------------------------------:|:------:|
+| Sistema de Gestão de Projeto Ágil | [Projeto Único](https://github.com/ArielCAlves/java-clean-code/tree/main/TP3/SistemaGestaoAgil) |
